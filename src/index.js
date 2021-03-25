@@ -47,6 +47,4 @@ if (themeInLocal === Theme.DARK) {
 
 
 
-const menu = document.querySelector('.js-menu');
-const markup = menuCard(menuGallery);
-menu.insertAdjacentHTML('beforeend', markup);
+
